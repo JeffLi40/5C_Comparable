@@ -1,7 +1,7 @@
 /**
   Represent a date
  */
-public class Date{
+public class Date implements Comparable{
     private int y,m,d; // implicit bounds on m and d
 
 
